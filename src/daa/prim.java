@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class primsAlgorithm {
+class primsAlgorithm {
 
 	public static void main(String[] args) {
 		ArrayList<edge> list=new ArrayList<edge>();
@@ -56,3 +56,4 @@ public class primsAlgorithm {
 		na.primAlgorithm(dis);
 	}
 }
+

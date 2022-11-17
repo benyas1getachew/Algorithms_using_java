@@ -185,3 +185,6 @@ public class node {
 		System.out.println(sy+"<-->"+s+"="+min);
 	}
 }
+
+
+
